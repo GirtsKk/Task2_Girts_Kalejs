@@ -1,2 +1,2 @@
-# Task2_Girts_Kalejs
-Prakses pieteiksanas darbs
+Girts_Kalejs
+Darbi
